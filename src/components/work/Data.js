@@ -18,6 +18,7 @@ export const projectsData = [
     image: Work5,
     title: "Vue-Laravel CRUD",
     category: "CRUD",
+    link:'#'
   },
   {
     id: 3,
