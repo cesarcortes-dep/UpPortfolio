@@ -7,6 +7,7 @@ export const Social = () => {
         href="https://www.linkedin.com/in/cesar-mateo-cortes-leon-b823a2206/"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-linkedin">
             
@@ -17,6 +18,7 @@ export const Social = () => {
         href="https://github.com/cesarcortes-dep"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-github"></i>
       </a>
