@@ -24,6 +24,7 @@ const Footer = () => {
             href="https://www.linkedin.com/in/cesar-mateo-cortes-leon-b823a2206/"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i class="bx bxl-linkedin"></i>
           </a>
@@ -32,6 +33,7 @@ const Footer = () => {
             href="https://github.com/cesarcortes-dep"
             className="footer__social-link"
             target="_blank"
+            rel="noreferrer"
           >
             <i class="bx bxl-github"></i>
           </a>
